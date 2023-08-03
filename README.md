@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BurkiPy
-- 👀 I’m interested in ... Networking and Python :D
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python Projects.
+- 👋 Hi, I’m @BurkRy
+- 👀 I’m interested in ... Game Development :D
+- 🌱 I’m currently learning ... C++
+- 💞️ I’m looking to collaborate on ... Game Dev Projects..
 - 📫 How to reach me ... LinkedIn
 
 <!---
